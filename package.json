@@ -1,0 +1,26 @@
+{
+  "name": "rate-my-friends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackDunfey/Rate-My-Friends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackDunfey/Rate-My-Friends/issues"
+  },
+  "homepage": "https://github.com/JackDunfey/Rate-My-Friends#readme",
+  "description": ""
+}
